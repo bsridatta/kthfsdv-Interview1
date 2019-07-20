@@ -2,7 +2,6 @@
 
 ### Exercise 1 contains both the tutorial packages and own packages, plots and screenshot of the WiFi config
 
-##### I could not understand what exactly was ROS src and not src folder as mentioned in the instructions So this is the [link to entire code](https://github.com/bsridatta/kthfsdv). Sorry for the inconvenience.
 
 
 ### Exercise 2  Visualisation tool using Python2.4 and Tkinter along with a screenshot of the tool. 
